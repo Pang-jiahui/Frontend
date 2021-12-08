@@ -1,2 +1,2 @@
-# 前端学习
+# Frontend Learning
 Learn to become a frontend developer
