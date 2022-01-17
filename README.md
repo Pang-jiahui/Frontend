@@ -1,2 +1,2 @@
 # Frontend Learning
-## HTML & css
+## [JavaScript](https://github.com/Pang-jiahui/Frontend/tree/main/JavaScript)
